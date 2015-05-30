@@ -4,7 +4,7 @@ Plugin that enlarges your image on click and fades the background to a green col
 
 ###1. Download
 
-Start by downloading the zipfile.
+Start by cloning or download the zipfile.
 
 ###2. Include the script
 
