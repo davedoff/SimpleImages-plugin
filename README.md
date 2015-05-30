@@ -29,7 +29,7 @@ Add this code to your main javascript-file (mine is called main.js and is also i
   });
 ```
 
-###3. Add CSS
+###4. Add CSS
 
 Add this code to your CSS to make it look cool.
 
@@ -50,7 +50,7 @@ Add this code to your CSS to make it look cool.
 }
 ```
 
-###4. Add greenbox to your image class
+###5. Add greenbox to your image class
 
 Now you can just add the class 'greenbox' to the images you want the plugin to work for.
 
@@ -58,7 +58,7 @@ Now you can just add the class 'greenbox' to the images you want the plugin to w
   <img class='greenbox' src='img/david.jpg' alt='' width='200px' />
 ```
 
-###5. Extra stuff
+###6. Extra stuff
 
 Your footer should look something like this in the end: 
 
