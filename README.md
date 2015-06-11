@@ -20,7 +20,7 @@ Dont forget to add jQuery to your footer aswell!
 
 ###3. Add code to your main javascript-file
 
-Add this code to your main javascript-file (mine is called main.js and is also included to the footer).
+Add this code to your main javascript-file (mine is called main.js and is also included to the footer). Here you can change the values of the functions if you would like for example, change duration between the images in the slideshow or maybe the opacity for the background of the greenbox. Read the comments in the code for more information.
 
 ```javascript
   $(document).ready(function() {
