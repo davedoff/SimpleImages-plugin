@@ -169,4 +169,4 @@ Your footer should look something like this in the end:
 
 You can also add a loader-gif to your plugin if you want it to look extra cool when clicking extra large images. Just download a loader-gif and name it 'loader.gif' and place it in the 'img' folder. 
 
-You can find example images and a loader.gif inside the img-folder
+You can find example images and loader.gif at https://github.com/davedoff/img
